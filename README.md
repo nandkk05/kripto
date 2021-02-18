@@ -1,13 +1,18 @@
-# Getting Started with Create React App
+# Kripto 🚀🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Build Setup
 
 In the project directory, you can run:
 
-### `npm start`
+``` bash
+# install dependencies
+npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Runs the app in the development mode. open http://localhost:3000
+npm run start
+
+# build for production with minification 
+npm run build
+
+```
 
